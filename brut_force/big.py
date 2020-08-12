@@ -1,3 +1,4 @@
+#beakjoon 7638
 def main():
     number_of_man = int(input())
     if number_of_man > 50 or number_of_man < 2:
