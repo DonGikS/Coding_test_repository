@@ -1,3 +1,4 @@
+#beakjoon 11399
 def main():
     num = int(input())
     if (num < 1) or (num > 1000):
